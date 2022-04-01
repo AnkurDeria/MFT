@@ -2,11 +2,11 @@
 
 [Swalpa Kumar Roy](https://swalpa.github.io), [Ankur Deria](), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Behnood Rasti](https://scholar.google.com/citations?user=hA_Xi6MAAAAJ&hl=en), [Antonio Plaza](https://scholar.google.com/citations?user=F1UAj8oAAAAJ&hl=en), and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
+
+<sup><font color="red"><strong>New!!</strong></font></sup> Code will be available here soon.
 ___________
 
 The repository contains the implementations for [Multimodal Fusion Transformer for Remote Sensing Image Classification](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification).
-
-<sup><font color="red"><strong>New!!</strong></font></sup> Code will be available here soon.
 
 <img src="./model.png" width="700" height="500"/>
 
