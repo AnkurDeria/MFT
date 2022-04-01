@@ -1,5 +1,8 @@
 The repository contains the implementations for [Multimodal Fusion Transformer for Remote Sensing Image Classification](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification).
 
+![alt text](./model.png)
+
+
 ## Models
 
 The following traditional machine learning methods will be available:
