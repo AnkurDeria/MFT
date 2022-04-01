@@ -8,6 +8,11 @@ The repository contains the implementations for [Multimodal Fusion Transformer f
 
 <img src="./model.png" width="700" height="500"/>
 
+---------------------
+### Dataset
+
+* **Muffle** was collected over the campus of Southern Mississippi-Gulfpark. The original image has 325 × 220 pixels and 64 bands in the spectral range from 0.375 to 1.050 μm. We select a popular region of interest (ROI) with a size of 130 × 90 pixels
+
 
 ## Models
 
