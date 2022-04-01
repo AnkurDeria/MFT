@@ -6,6 +6,8 @@ ___________
 
 The repository contains the implementations for [Multimodal Fusion Transformer for Remote Sensing Image Classification](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification).
 
+<sup><font color="red"><strong>New!!</strong></font></sup> Code will be available here soon.
+
 <img src="./model.png" width="700" height="500"/>
 
 ---------------------
@@ -41,4 +43,16 @@ The following transformer based deep learning methods will be available:
 - [x] [SpectralFormer](https://ieeexplore.ieee.org/document/9627165)
 - [x] [MFT](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification)
 
-<sup><font color="red"><strong>New!!</strong></font></sup> Code will be available here soon.
+Citation
+---------------------
+
+**Please kindly cite the papers if this code is useful and helpful for your research.**
+
+Swalpa Kumar Roy, Ankur Deria, Danfeng Hong, Behnood Rasti, Antonio Plazza, Jocelyn Chanussot. Multimodal Fusion Transformer for Remote Sensing Image Classification, arXiv preprint arXiv:2203.16952, 2022.
+
+    @article{roy2022multimodal,
+      title={Multimodal Fusion Transformer for Remote Sensing Image Classification},
+      author={Roy, Swalpa Kumar and Deria, Ankur and Hong, Danfeng and Rasti, Behnood and Plazza, Antonio and Chanussot, Jocelyn},
+      journal={arxiv.org/abs/2203.16952},
+      year={2022}  
+    }
