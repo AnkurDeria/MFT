@@ -30,5 +30,4 @@ The following transformer based deep learning methods will be available:
 - [x] [SpectralFormer](https://ieeexplore.ieee.org/document/9627165)
 - [x] [MFT](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification)
 
-<span class="color-blue"></span><sup><img style="display:inline"
-                      src="https://josaa.nic.in/webinfocms/Images/newicon.gif" alt="" /></sup> <span class="newNews"> Code will be available here soon.
+<sup><font color="red"><strong>New!!</strong></font> </sup> <span class="newNews"> Code will be available here soon.
