@@ -48,8 +48,6 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Swalpa Kumar Roy, Ankur Deria, Danfeng Hong, Behnood Rasti, Antonio Plazza, Jocelyn Chanussot. Multimodal Fusion Transformer for Remote Sensing Image Classification, arXiv preprint arXiv:2203.16952, 2022.
-
     @article{roy2022multimodal,
       title={Multimodal Fusion Transformer for Remote Sensing Image Classification},
       author={Roy, Swalpa Kumar and Deria, Ankur and Hong, Danfeng and Rasti, Behnood and Plazza, Antonio and Chanussot, Jocelyn},
