@@ -1,6 +1,6 @@
 # Multimodal Fusion Transformer for Remote Sensing Image Classification
 
-[Swalpa Kumar Roy](https://swalpa.github.io), [Ankur Deria](), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Behnood Rasti](https://scholar.google.com/citations?user=hA_Xi6MAAAAJ&hl=en), [Antonio Plaza](https://scholar.google.com/citations?user=F1UAj8oAAAAJ&hl=en), and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
+[Swalpa Kumar Roy](https://swalpa.github.io), [Ankur Deria](https://ankurderia.github.io), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Behnood Rasti](https://scholar.google.com/citations?user=hA_Xi6MAAAAJ&hl=en), [Antonio Plaza](https://scholar.google.com/citations?user=F1UAj8oAAAAJ&hl=en), and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
 
 <strong>:fire:New:bangbang:</strong></font></sup> Code will be available here soon.
