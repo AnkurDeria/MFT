@@ -2,6 +2,8 @@
 
 [Swalpa Kumar Roy](https://swalpa.github.io), [Ankur Deria](https://ankurderia.github.io), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Behnood Rasti](https://scholar.google.com/citations?user=hA_Xi6MAAAAJ&hl=en), [Antonio Plaza](https://scholar.google.com/citations?user=F1UAj8oAAAAJ&hl=en), and [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
+### Sample Dataset
+___________
 
 Get the disjoint dataset (Trento11x11 folder) from [Google Drive](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd?usp=sharing).
 ___________
