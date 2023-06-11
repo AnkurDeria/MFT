@@ -57,6 +57,6 @@ Citation
     @article{roy2022multimodal,
       title={Multimodal Fusion Transformer for Remote Sensing Image Classification},
       author={Roy, Swalpa Kumar and Deria, Ankur and Hong, Danfeng and Rasti, Behnood and Plazza, Antonio and Chanussot, Jocelyn},
-      journal={arxiv.org/abs/2203.16952},
-      year={2022}  
+      journal={IEEE Transactions on Geoscience and Remote Sensing},
+      year={2023}  
     }
