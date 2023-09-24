@@ -61,3 +61,7 @@ Citation
       year={2023},
       doi = {10.1109/TGRS.2023.3286826}
     }
+
+## Non-Official Implementation
+
+Thanks to Srinadh Reddy for the re-implementation of MFT paper (https://github.com/srinadh99/Transformer-Models-for-Multimodal-Remote-Sensing-Data)
