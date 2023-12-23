@@ -49,9 +49,9 @@ The following transformer based deep learning methods will be available:
 - [x] [SpectralFormer](https://ieeexplore.ieee.org/document/9627165)
 - [x] [MFT](https://www.researchgate.net/publication/359647022_Multimodal_Fusion_Transformer_for_Remote_Sensing_Image_Classification)
 
-### Appreciation Geoscience and Remote Sensing Society (GRSS)
+### Appreciation from Geoscience and Remote Sensing Society (GRSS)
 
-<img src="./GRSS.jpg" width="700" height="450"/>
+<img src="./GRSS.jpg" width="700" height="550"/>
 
 
 Citation
